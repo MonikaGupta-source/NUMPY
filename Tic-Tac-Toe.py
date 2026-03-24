@@ -62,7 +62,7 @@ while True :
 
     if result is not None:
         if result ==  "DRAW":
-            print("oHHH shit! draw ho gyaa ")
+            print("IT'S A DRAW! ")
 
         else:
             print(result,"wins")
